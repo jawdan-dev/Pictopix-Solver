@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "foinRdR3UmuE/1dSWZ4cIZG1rP4JNAvgTQ8/cIL75gWqwk1SJt2WZUETJF4S+ftBk7Aj33WeHhICDzj8VSkOzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jordan\\Documents\\Visual Studio 2019\\Projects\\Pictopog\\Pictopog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jordan\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Jordan\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
